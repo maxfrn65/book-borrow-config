@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: book-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/book_borrow
+    username: mfour
+    password: 123456
